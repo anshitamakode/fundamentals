@@ -1,4 +1,4 @@
-package com.scaler.advanced.code.pair;
+package com.scaler.advanced.code;
 
 public class Triple<FIRST_TYPE,SECOND_TYPE,THIRD_TYPE> {
 	private FIRST_TYPE x;
